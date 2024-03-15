@@ -23,7 +23,7 @@ export class ExperiencesComponent {
         strong: "UI Designer",
         p: "Bart | Junho 2023 - Feveiro 2024",
       },
-      text: "Durante esse período na Bart atuei como estagiaria de UI/UX Design, tive a oportunidade de explorar minha criatividade da criação de interface até testes de usabilidade. "
+      text: "Durante esse período na Bart atuei como estagiaria de UI/UX Design, utilizando a ferramenta do Figma tive a oportunidade de explorar minha criatividade da criação de interface até testes de usabilidade. "
     } 
   ])
 }
