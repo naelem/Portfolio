@@ -1,5 +1,5 @@
 import { Component, signal  } from '@angular/core';
-import { IKnowledge } from '../interface/IKnowledge.interface';
+import { IKnowledge } from '../../interface/IKnowledge.interface';
 
 @Component({
   selector: 'app-knowledge',

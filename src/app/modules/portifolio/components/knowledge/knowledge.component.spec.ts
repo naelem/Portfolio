@@ -5,7 +5,7 @@ import { KnowledgeComponent } from './knowledge.component';
 describe('KnowledgeComponent', () => {
   let component: KnowledgeComponent;
   let fixture: ComponentFixture<KnowledgeComponent>;
-
+  
   beforeEach(async () => {
     await TestBed.configureTestingModule({
       imports: [KnowledgeComponent]
